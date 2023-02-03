@@ -1,4 +1,4 @@
-# E-Commerce Back End
+# E-Commerce Back End 
 ![License Badge](https://shields.io/badge/license-MIT-green)
 ![License Badge](https://img.shields.io/badge/-Javascript-F7DF1E?logo=Javascript&syle=flat&logoColor=white)
 ![License Badge](https://img.shields.io/badge/-Express-000000?logo=express&style=flat&logoColor=white)
@@ -25,7 +25,7 @@ git clone https://github.com/Samualjensen/E-Commerce-Back-End.git
 ### Usage:
 ![img](./assets/e-com-cat-ims-screenshot.png)
 ### License
-MIT
+**MIT**
 ### Contributing
 1. **Fork** the repo on GitHub.
 2. **Clone** the project to your own machine.
@@ -33,6 +33,6 @@ MIT
 4. **Push** your work back up to your fork.
 5. Submit a **Pull request** so that your changes can reviewed.
 ### Tests
-N/A
+**N/A**
 ### Questions
 My Github profile can be found at [Github](https://github.com/Samualjensen), or contact Sam Jensen at samual.jensen@gmail.com.
