@@ -24,6 +24,7 @@ npm i
  ```
 ### Usage:
 https://user-images.githubusercontent.com/115045713/216727779-b7999019-41ae-4f41-8bbf-afa8e07948fd.mp4
+
 ![img](./assets/e-com-cat-ims-screenshot.png)
 ### License
 [MIT License](https://opensource.org/licenses/MIT)
