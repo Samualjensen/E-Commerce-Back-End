@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const { Tag, Product, ProductTag, Category } = require('../../models');
+const { Tag, Product, ProductTag } = require('../../models');
 
 // find all tags
 router.get('/', async (req, res) => {
