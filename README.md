@@ -18,7 +18,7 @@ Back end application for e-commerce site, configuring an Express.js API to inter
 ### Installation:
 git clone https://github.com/Samualjensen/E-Commerce-Back-End.git
 ### Usage:
-
+![img](./assets/e-com-cat-ims-screenshot.png)
 ### License
 MIT
 ### Contributing
