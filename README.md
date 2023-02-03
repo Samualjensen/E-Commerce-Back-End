@@ -16,13 +16,22 @@ Back end application for e-commerce site, configuring an Express.js API to inter
 * [Tests](#tests)
 * [Questions](#questions)
 ### Installation:
+```bash
 git clone https://github.com/Samualjensen/E-Commerce-Back-End.git
+```
+```bash
+ npm i
+ ```
 ### Usage:
 ![img](./assets/e-com-cat-ims-screenshot.png)
 ### License
 MIT
 ### Contributing
-N/A
+1. **Fork** the repo on GitHub.
+2. **Clone** the project to your own machine.
+3. **Commit** changes to your own branch.
+4. **Push** your work back up to your fork.
+5. Submit a **Pull request** so that your changes can reviewed.
 ### Tests
 N/A
 ### Questions
