@@ -20,7 +20,7 @@ Back end application for e-commerce site, configuring an Express.js API to inter
 git clone https://github.com/Samualjensen/E-Commerce-Back-End.git
 ```
 ```bash
- npm i
+npm i
  ```
 ### Usage:
 ![img](./assets/e-com-cat-ims-screenshot.png)
